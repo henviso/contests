@@ -1,0 +1,46 @@
+Case #1: BA AB
+Case #2: AC BA A BC
+Case #3: C A BC
+Case #4: BA B A BC
+Case #5: BC BC BA A BC
+Case #6: CB CA A BC
+Case #7: BC B A BC
+Case #8: BA BA AB
+Case #9: BA BC BA A BC
+Case #10: BC BA A BC
+Case #11: CB AC BA A BC
+Case #12: AB AB A A BC
+Case #13: AB AC BA A BC
+Case #14: CA CA A BC
+Case #15: CB A A BC
+Case #16: CB CB A A BC
+Case #17: CB C A BC
+Case #18: BC BA B A BC
+Case #19: AB A A BC
+Case #20: CA A BC
+Case #21: CA CB A A BC
+Case #22: CB CB A BC
+Case #23: BA BA BA A BC
+Case #24: BC BC B A BC
+Case #25: CB CA C A BC
+Case #26: AC A A BC
+Case #27: BA A BC
+Case #28: AC AB A A BC
+Case #29: CA C A BC
+Case #30: BA BA BA AB
+Case #31: BA BA B A BC
+Case #32: AC AC BA A BC
+Case #33: A BC
+Case #34: BA BA A BC
+Case #35: AB
+Case #36: CB CB C A BC
+Case #37: BA CB A A BC
+Case #38: CA CB CA A BC
+Case #39: AC AC A A BC
+Case #40: CA CA C A BC
+Case #41: CB CB CA A BC
+Case #42: CA CA CA A BC
+Case #43: CB CB CB A BC
+Case #44: CB A BC
+Case #45: A A BC
+Case #46: B A BC
