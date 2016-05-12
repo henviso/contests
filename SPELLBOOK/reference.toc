@@ -1,0 +1,17 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Macros}{1}
+\contentsline {subsection}{Basic}{2}
+\contentsline {subsection}{Recorrencia Linear}{3}
+\contentsline {subsection}{Strings Hash}{4}
+\contentsline {section}{\numberline {2}Data Structures}{4}
+\contentsline {subsection}{Arbitrary Precision Integers}{4}
+\contentsline {subsection}{Fenwick Tree}{5}
+\contentsline {section}{\numberline {3}Programa\IeC {\c c}\IeC {\~a}o Din\IeC {\^a}mica}{6}
+\contentsline {subsection}{Lis Logar\IeC {\'\i }tmico}{6}
+\contentsline {subsection}{Knapsack}{7}
+\contentsline {subsection}{Edit Distance}{7}
+\contentsline {section}{\numberline {4}Graphs}{8}
+\contentsline {subsection}{Maxflow EDMONDS-KARP}{8}
+\contentsline {subsection}{Max Card Bip Matching}{8}
+\contentsline {subsection}{Heavy Light Decomposition}{9}
+\contentsline {subsection}{2 Sat}{9}
